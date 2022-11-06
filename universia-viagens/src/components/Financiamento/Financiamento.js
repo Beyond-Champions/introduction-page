@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import * as math from "mathjs";
 import "./StylesFinanciamento.css";
+import styled from "styled-components";
 
 const arrOperacoes = ["*", "/", "+", ".", "-"];
 
@@ -31,6 +32,17 @@ export default function Financiamento() {
     }
   }
 
+  const Button = styled.button`
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 10px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 35%;
+  `;
+
   return (
     <div className="Financiamento">
       <div className="input-financiamento">
@@ -45,6 +57,7 @@ export default function Financiamento() {
       <div className="input-financiamento">
         <input type="number" placeholder="taxa de juros (%)" />
       </div>
+      <Button>Calcular</Button>
     </div>
   );
 }

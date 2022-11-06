@@ -152,7 +152,7 @@ function App() {
       <section></section>
 
       <footer className="foot">
-        <p>Todos os direitos são reservados</p>
+        <p>&copy; Beyond Champions, Todos os direitos são reservados</p>
       </footer>
     </div>
   );
