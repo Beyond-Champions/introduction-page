@@ -14,3 +14,14 @@ cerca de 57% dos interessados em intercambio são pessoas da idade de 18 a 30 an
 
 Pensando nisso, O Santander está revolucionando mais uma vez! Conheça o Universia Viagens Santander! Uma linha de crédito criada especialmente para Vc, cliente Santander, que sonha em realizar um intercâmbio ou até mesmo participar daquele tão famoso congresso. O Santander em parceria com agências de viagens, ajuda você a selecionar o seu destino e facilita o pagamento através de financiamentos com taxas reduzidas. Tudo é feito no seu App Santander. E tem mais! Precisa de um incentivo maior? Ao finalizar seus cursos em canais de parceiros e programas Santander, você acumula pontos que poderão ser utilizados como descontos em novos cursos ou novas viagens! Vem com a gente, desbrave o mundo! Vem ser Universia Viagens Santander!
 
+Business Canvas:
+
+https://drive.google.com/file/d/1h3kzTP-xGXgd3IbVnBD06EK-c9ksFYar/view
+
+Repositório App:
+
+https://github.com/Beyond-Champions/BC-app
+
+Projeto publicado:
+
+https://universia-viagens.netlify.app/
