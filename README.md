@@ -18,7 +18,7 @@ Business Canvas:
 
 https://drive.google.com/file/d/1h3kzTP-xGXgd3IbVnBD06EK-c9ksFYar/view
 
-Repositório App:
+Repositório Protótipo App:
 
 https://github.com/Beyond-Champions/BC-app
 
